@@ -1,0 +1,8 @@
+"HTML and CSS are the building blocks of web development."
+"Learning new programming languages opens up many career opportunities."
+"A website's design can greatly influence user experience."
+"CSS allows you to make your website look visually appealing."
+"The internet has revolutionized the way we communicate."
+"JavaScript makes websites interactive and dynamic."
+"Every web developer should understand the fundamentals of HTML."
+"Responsive design ensures your website works well on all devices."
